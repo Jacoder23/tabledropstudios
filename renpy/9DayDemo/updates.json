@@ -1,29 +1,29 @@
 {
   "win": {
-    "sums_url": "9DayDemo-0.1.1.1-win.sums", 
-    "version": "c79f8957c1542b15dcf27b42a1b1f31c1d9efc3a1ff20e745ac814d00974421a", 
-    "zsync_url": "9DayDemo-0.1.1.1-win.zsync", 
-    "json_url": "9DayDemo-0.1.1.1-win.update.json", 
-    "pretty_version": "0.1.1.1", 
-    "sums_size": 3292, 
-    "digest": "90070b7babdf60f0a99502db194d832f18c5fd33e4dc5619f24c462468a4a45b"
+    "sums_url": "9DayDemo-0.1.1.2-win.sums", 
+    "version": "91b7ba07dc57fd1a71c0108857c81bbb773b9b8058cb34e92e5a3c98f1f08928", 
+    "zsync_url": "9DayDemo-0.1.1.2-win.zsync", 
+    "json_url": "9DayDemo-0.1.1.2-win.update.json", 
+    "pretty_version": "0.1.1.2", 
+    "sums_size": 4648, 
+    "digest": "321a2d1c40f0e475aef801191269d73aaa28b8016ab65c4802159d80b1dd3311"
   }, 
   "mac": {
-    "sums_url": "9DayDemo-0.1.1.1-mac.sums", 
-    "version": "f8844f204e8bf4dff445319466755a7b73673e48c4de00002f61998b1940f182", 
-    "zsync_url": "9DayDemo-0.1.1.1-mac.zsync", 
-    "json_url": "9DayDemo-0.1.1.1-mac.update.json", 
-    "pretty_version": "0.1.1.1", 
-    "sums_size": 3132, 
-    "digest": "0a2ac39bda7c43dd9c589bedcfb1398d473161d955396bc2c17c4f05f1f17be7"
+    "sums_url": "9DayDemo-0.1.1.2-mac.sums", 
+    "version": "b550541dcaf5a1c1a06c0b59a67a9ed1acfa339176cf9be8496c731006cb686d", 
+    "zsync_url": "9DayDemo-0.1.1.2-mac.zsync", 
+    "json_url": "9DayDemo-0.1.1.2-mac.update.json", 
+    "pretty_version": "0.1.1.2", 
+    "sums_size": 4488, 
+    "digest": "3125b80dd6b57b340572dfe965c7fe05b39f0038be7f2e98d4f9aae4c70a643b"
   }, 
   "linux": {
-    "sums_url": "9DayDemo-0.1.1.1-linux.sums", 
-    "version": "a74e89031970eedc8a9cd5656952f887b8f8e8461e0d61d734ebda84322de12e", 
-    "zsync_url": "9DayDemo-0.1.1.1-linux.zsync", 
-    "json_url": "9DayDemo-0.1.1.1-linux.update.json", 
-    "pretty_version": "0.1.1.1", 
-    "sums_size": 4732, 
-    "digest": "d29301560623bc2ebe86f93233321da66d96deda2cdda674c29efe601f327b64"
+    "sums_url": "9DayDemo-0.1.1.2-linux.sums", 
+    "version": "1ac15009511a13e4f55c3f7534d607bbffea21fccc5744d884dba67b32d881dd", 
+    "zsync_url": "9DayDemo-0.1.1.2-linux.zsync", 
+    "json_url": "9DayDemo-0.1.1.2-linux.update.json", 
+    "pretty_version": "0.1.1.2", 
+    "sums_size": 6088, 
+    "digest": "74278356fc453a04e88fb7836ddeca9de3bc423eb60aee09e182ab412b63074d"
   }
 }
