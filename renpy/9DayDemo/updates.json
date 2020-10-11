@@ -2,7 +2,7 @@
   "win": {
     "sums_url": "9DayDemo-0.1.1.3-win.sums", 
     "version": "37a99511907bfa86f73b3c3622e65f203bbb1fcb82ed319c36d14fc4aeb2e4b3", 
-    "zsync_url": "9DayDemo-0.1.1.3-win.zsync", 
+    "zsync_url": "demo.zsync", 
     "json_url": "9DayDemo-0.1.1.3-win.update.json", 
     "pretty_version": "0.1.1.3", 
     "sums_size": 4652, 
