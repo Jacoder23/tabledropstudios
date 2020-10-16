@@ -1,11 +1,11 @@
 {
   "win": {
-    "sums_url": "9DayDemo-0.1.1.4-win.sums", 
-    "version": "f7081fdf2b0995978a5c14a5cc78c52a4bc38c69b502788eb7a6d4db5b74007f", 
-    "zsync_url": "9DayDemo-0.1.1.4-win.zsync", 
-    "json_url": "9DayDemo-0.1.1.4-win.update.json", 
-    "pretty_version": "0.1.1.4", 
-    "sums_size": 4732, 
-    "digest": "73d1a4d361754591c0434de97a81d8da0e8c3f8ab4fcbdf813c400550fa7f7c7"
+    "sums_url": "9DayDemo-0.1.2.0-win.sums", 
+    "version": "8ada7f834cbfebddeae5f71612fb5de45858fba223d47f07bd4aa12f10bfaf78", 
+    "zsync_url": "9DayDemo-0.1.2.0-win.zsync", 
+    "json_url": "9DayDemo-0.1.2.0-win.update.json", 
+    "pretty_version": "0.1.2.0", 
+    "sums_size": 4736, 
+    "digest": "9b3628ddf9429fe01534daf5f9b662205ec65311c8be0f37a13857b2ca0baebe"
   }
 }
