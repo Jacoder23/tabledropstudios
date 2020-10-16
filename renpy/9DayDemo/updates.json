@@ -1,29 +1,11 @@
 {
   "win": {
-    "sums_url": "9DayDemo-0.1.1.3-win.sums", 
-    "version": "37a99511907bfa86f73b3c3622e65f203bbb1fcb82ed319c36d14fc4aeb2e4b3", 
-    "zsync_url": "demo.zsync", 
-    "json_url": "9DayDemo-0.1.1.3-win.update.json", 
-    "pretty_version": "0.1.1.3", 
-    "sums_size": 4652, 
-    "digest": "bcdd1ceb8d36e6ed5bd931656d1c10dd6f01a231f433ffe1651eaa2c9a521cc0"
-  }, 
-  "mac": {
-    "sums_url": "9DayDemo-0.1.1.3-mac.sums", 
-    "version": "6128ef087c5a413636af0fbc457091e1e88585031fe63556d5fa560a95d52100", 
-    "zsync_url": "9DayDemo-0.1.1.3-mac.zsync", 
-    "json_url": "9DayDemo-0.1.1.3-mac.update.json", 
-    "pretty_version": "0.1.1.3", 
-    "sums_size": 4488, 
-    "digest": "86ea5391430aec9fe41180481cc7f2fb15094ae6451b6ee492d064072045dc14"
-  }, 
-  "linux": {
-    "sums_url": "9DayDemo-0.1.1.3-linux.sums", 
-    "version": "de3b92f90e3990e5583c87dd2c644ddfad38d62811ff3300b7c233cf8e060b59", 
-    "zsync_url": "9DayDemo-0.1.1.3-linux.zsync", 
-    "json_url": "9DayDemo-0.1.1.3-linux.update.json", 
-    "pretty_version": "0.1.1.3", 
-    "sums_size": 6092, 
-    "digest": "82c4acb225c28f354a18bf26b31390415b43465196354f1fa2e6f8222fd689ce"
+    "sums_url": "9DayDemo-0.1.1.4-win.sums", 
+    "version": "f7081fdf2b0995978a5c14a5cc78c52a4bc38c69b502788eb7a6d4db5b74007f", 
+    "zsync_url": "9DayDemo-0.1.1.4-win.zsync", 
+    "json_url": "9DayDemo-0.1.1.4-win.update.json", 
+    "pretty_version": "0.1.1.4", 
+    "sums_size": 4732, 
+    "digest": "73d1a4d361754591c0434de97a81d8da0e8c3f8ab4fcbdf813c400550fa7f7c7"
   }
 }
